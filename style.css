@@ -8,10 +8,13 @@ color: rgb(250, 249, 246);
 font-size: 12pt;
 font-family:Arial;
 padding: 30px;
+-webkit-text-stroke-color: black;
 }
 
 h1
 {
   color: write;
   font-size: 20pt;
+  -webkit-text-stroke-color: black;
+
 }
