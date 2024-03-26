@@ -3,18 +3,17 @@
 
 body
 {
-background-color: rgb(250, 209, 119);
-color: rgb(250, 249, 246);
-font-size: 12pt;
-font-family:Arial;
-padding: 30px;
--webkit-text-stroke-color: black;
+  background-image: linear-gradient(to right, rgb(98, 200, 247), white);
+  color: black;
+  font-size: 12pt;
+  font-family:Arial;
+  padding: 30px;
+  text-align: center;
 }
 
-h1
+h1, h2
 {
   color: write;
-  font-size: 20pt;
-  -webkit-text-stroke-color: black;
-
+  font-size: 30pt;
+  text-align: center;
 }
