@@ -11,17 +11,50 @@ body
   text-align: center;
 }
 
-h1, h2
+h1
+{   
+background-color: aqua;
+font-size: 30pt;
+font-family:Arial;
+text-align: center;
+}
+
+h2
 {
-  color: write;
-  font-size: 30pt;
-  text-align: center;
+color: black;
+font-size: 20pt;
+font-family:Arial;
+text-align: center;
 }
 
-a{
-  text-decoration: none;
+a
+{
+color: rgb(5, 28, 233);
+font-size: 20pt;
+font-family:Arial;
+text-decoration: none;
 }
 
-.segunda {
-  
+p
+{
+    color: rgb(19, 41, 235);
+    font-size: 16pt;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center; 
+}
+.p2
+{
+    text-align: left;
+}
+.pj
+{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20;
+}
+.jp
+{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16;
 }
